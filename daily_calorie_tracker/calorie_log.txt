@@ -1,0 +1,13 @@
+----- DAILY CALORIE SUMMARY -----
+Timestamp: 2025-11-11 14:53:00.414820
+
+Meal Name	Calories
+---------------------------------
+breakfast		300.0
+lunch		500.0
+dinner		500.0
+---------------------------------
+Total:		1300.0
+Average:	433.33
+---------------------------------
+✔ You are within your daily calorie limit.
