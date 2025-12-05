@@ -1,0 +1,3 @@
+building,total_kwh,mean_kwh,min_kwh,max_kwh
+buildingA,67,22.333333333333332,20,25
+buildingB,105,35.0,30,40
