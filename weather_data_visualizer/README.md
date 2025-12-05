@@ -124,10 +124,7 @@ Conclusions
 This is an individual assignment.
 All analysis, code execution, and documentation are done following academic honesty.
 
-📧 Contact
 
-For issues or queries:
-sameer.farooq@krmangalam.edu.in
 
 ⭐ Final Note
 
